@@ -1,5 +1,6 @@
-# Control-RF---Intro-a-CAD
+<h1>  <img src="https://github.com/user-attachments/assets/6bb60ee7-9681-42ff-afd7-71a8faf92465" alt="imagen" width="60"/> Control-RF---Intro-a-CAD </h1>
 Diseño y desarrollo de control RF de uso generico
+
 
 ![imagen](https://github.com/user-attachments/assets/773596e1-b6af-4798-8348-6598ee06fe57)
 
